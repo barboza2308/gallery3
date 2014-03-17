@@ -1,0 +1,54 @@
+/* Grid view ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+.g-advanced-search-view {
+	position: relative;
+	float: center;
+	height: 290px;
+}
+
+/* Position Items ~~~~~~~~~~~~~~~~~~~~~~~*/
+
+.g-div-form{
+	position: relative;
+	width: 100%;
+}
+
+.g-div-content-column{
+	width: 100%;
+    display: inline-block;
+}
+
+.g-div-content-buttons{
+	float: right;
+	margin-right: 16px;
+}
+
+.g-div-column { 
+	float: left;
+	width: 33%; 
+    display: inline-block;
+}
+
+.g-labels{
+	display: block !important;
+	padding-top: 10px !important;
+}
+
+#g-filterby{
+	display: block !important;
+	padding-top: 2px !important;
+}
+
+.g-inputs{
+	width: 90% !important;
+}
+
+.g-combos{
+	padding: 0.09em !important;
+	width: 94% !important;
+}
+
+.ui-state-highlight {
+	height: auto !important;
+	margin: auto !important;
+}
+
